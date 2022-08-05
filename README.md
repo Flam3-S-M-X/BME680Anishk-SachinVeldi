@@ -1,2 +1,2 @@
-# Freebum
-Freebum is going to detect carbon monoxide leaks from my 1980 honda civic
+# Rari
+This is the official Repository of Sachin V and Anish K on the the BME680 gas testor file. 
